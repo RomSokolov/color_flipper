@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 400;
+  color: #000;
+}/*# sourceMappingURL=style.css.map */
